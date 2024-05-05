@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Harshit-Kapoor
 - 👀 I’m interested in Automation Testing, DevOps
 - 🌱 I’m currently learning Appium
-- 💞️ I’m looking to collaborate on anything :)
 - 📫 How to reach me "You've aleady reached me"
 
 <!---
